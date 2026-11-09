@@ -1,0 +1,1050 @@
+[
+  {
+    "source": "C:\\Users\\qlffl\\OneDrive\\Desktop\\banner.png",
+    "asset": "assets/brand/banner.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Colby\\jerry.png",
+    "asset": "assets/characters/colby.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Ryan\\ryan.png",
+    "asset": "assets/characters/ryan.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Greenzy\\greenzy.png",
+    "asset": "assets/characters/greenzy.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\CharacterSelect\\Portraits\\ivan_normal.png",
+    "asset": "assets/characters/ivan.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Juliana\\kitty.png",
+    "asset": "assets/characters/juliana.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Potty\\potty.png",
+    "asset": "assets/characters/potty.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\trust_me_temp.png",
+    "asset": "assets/cards/trust_me_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\warm_up_temp.png",
+    "asset": "assets/cards/warm_up_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\lucky_splash.png",
+    "asset": "assets/cards/lucky_splash.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\leaf.png",
+    "asset": "assets/relics/leaf.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\clover.png",
+    "asset": "assets/relics/clover.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\red_shoes.png",
+    "asset": "assets/relics/red_shoes.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\mystery_box.png",
+    "asset": "assets/relics/mystery_box.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\hippostamach.png",
+    "asset": "assets/relics/hippostamach.png"
+  },
+  {
+    "source": "Art\\Art\\Battle\\level1_background.png",
+    "asset": "assets/world/forest-1.png"
+  },
+  {
+    "source": "Art\\Art\\Battle\\level2_background.png",
+    "asset": "assets/world/forest-2.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Amethy\\amethy.png",
+    "asset": "assets/enemies/amethy.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Blobber\\blobber_portrait.png",
+    "asset": "assets/enemies/blobber.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Chester\\chester.png",
+    "asset": "assets/enemies/chester.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Citrina\\citrina.png",
+    "asset": "assets/enemies/citrina.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Flaura\\flaura.png",
+    "asset": "assets/enemies/flaura.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\FlauraChester\\flaura_chester.png",
+    "asset": "assets/enemies/flaurachester.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Gemi\\gemi.png",
+    "asset": "assets/enemies/gemi.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Glider\\glider_temp.png",
+    "asset": "assets/enemies/glider.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Grandmastar\\grandmastar.png",
+    "asset": "assets/enemies/grandmastar.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\HyperFlaura\\hyper_flaura.png",
+    "asset": "assets/enemies/hyperflaura.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Jemerald\\jemerald.png",
+    "asset": "assets/enemies/jemerald.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Mayple\\mayple_portrait.png",
+    "asset": "assets/enemies/mayple.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\MegaChester\\mega_chester.png",
+    "asset": "assets/enemies/megachester.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\MegaFlaura\\mega_flaura.png",
+    "asset": "assets/enemies/megaflaura.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\MegaWendy\\mega_wendy.png",
+    "asset": "assets/enemies/megawendy.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Moley\\moley_portrait_temp.png",
+    "asset": "assets/enemies/moley.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Mossy\\mossy.png",
+    "asset": "assets/enemies/mossy.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Mushy\\mushy.png",
+    "asset": "assets/enemies/mushy.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\PapaStar\\papa_star.png",
+    "asset": "assets/enemies/papastar.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Ribbit\\ribbit_temp.png",
+    "asset": "assets/enemies/ribbit.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Ruby\\ruby.png",
+    "asset": "assets/enemies/ruby.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Shapira\\shapira.png",
+    "asset": "assets/enemies/shapira.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Snek\\snek_portrait.png",
+    "asset": "assets/enemies/snek.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Stoner\\stoner.png",
+    "asset": "assets/enemies/stoner.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Ted\\ted_portrait.png",
+    "asset": "assets/enemies/ted.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Wendy\\wendy.png",
+    "asset": "assets/enemies/wendy.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Greenzy\\Frames\\greenzy_f1.png",
+    "asset": "assets/characters/greenzy-f1.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\ryan_shield.png",
+    "asset": "assets/relics/ryan_shield.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\cheesy.png",
+    "asset": "assets/relics/cheesy.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\dumbbell.png",
+    "asset": "assets/relics/dumbbell.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\bell_collar.png",
+    "asset": "assets/relics/bell_collar.png"
+  },
+  {
+    "source": "User-provided character selection screenshot",
+    "asset": "assets/screenshots/character-select.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Miriam\\miriam_ring_temp.png",
+    "asset": "assets/relics/miriam_ring_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Miriam\\miriam_handbag_temp.png",
+    "asset": "assets/relics/miriam_handbag_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Miriam\\miriam_hat_temp.png",
+    "asset": "assets/relics/miriam_hat_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Miriam\\miriam_magnifier_temp.png",
+    "asset": "assets/relics/miriam_magnifier_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Miriam\\miriam_heels_temp.png",
+    "asset": "assets/relics/miriam_heels_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Miriam\\miriam_bracelet_temp.png",
+    "asset": "assets/relics/miriam_bracelet_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Miriam\\miriam_prayer_temp.png",
+    "asset": "assets/relics/miriam_prayer_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Miriam\\miriam_silence_temp.png",
+    "asset": "assets/relics/miriam_silence_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Miriam\\miriam_mirror_temp.png",
+    "asset": "assets/relics/miriam_mirror_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Hachipo\\hachipo_tongs_temp.png",
+    "asset": "assets/relics/hachipo_tongs_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Hachipo\\hachipo_rope_temp.png",
+    "asset": "assets/relics/hachipo_rope_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Hachipo\\hachipo_whetstone_temp.png",
+    "asset": "assets/relics/hachipo_whetstone_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Hachipo\\hachipo_crystal_temp.png",
+    "asset": "assets/relics/hachipo_crystal_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Hachipo\\hachipo_pickaxe_temp.png",
+    "asset": "assets/relics/hachipo_pickaxe_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Hachipo\\hachipo_anvil_temp.png",
+    "asset": "assets/relics/hachipo_anvil_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Hachipo\\hachipo_hammer_temp.png",
+    "asset": "assets/relics/hachipo_hammer_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Hachipo\\hachipo_furnace_temp.png",
+    "asset": "assets/relics/hachipo_furnace_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Hachipo\\hachipo_gathering_net_temp.png",
+    "asset": "assets/relics/hachipo_gathering_net_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_brush_temp.png",
+    "asset": "assets/relics/ted_brush_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_beret_temp.png",
+    "asset": "assets/relics/ted_beret_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_writing_pen_temp.png",
+    "asset": "assets/relics/ted_writing_pen_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_suitcase_temp.png",
+    "asset": "assets/relics/ted_suitcase_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_gloves_temp.png",
+    "asset": "assets/relics/ted_gloves_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_milk_temp.png",
+    "asset": "assets/relics/ted_milk_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_red_chestnut_temp.png",
+    "asset": "assets/relics/ted_red_chestnut_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_headband_temp.png",
+    "asset": "assets/relics/ted_headband_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_leaf_temp.png",
+    "asset": "assets/relics/ted_leaf_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\Ted\\ted_iron_temp.png",
+    "asset": "assets/relics/ted_iron_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\baby_koala_temp.png",
+    "asset": "assets/relics/baby_koala_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\eucalyptus_temp.png",
+    "asset": "assets/relics/eucalyptus_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\elegant_fork_temp.png",
+    "asset": "assets/relics/elegant_fork_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\discount_sticker_temp.png",
+    "asset": "assets/relics/discount_sticker_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\energy_drink_temp.png",
+    "asset": "assets/relics/energy_drink_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\gift_card_temp.png",
+    "asset": "assets/relics/gift_card_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\tailors_scissors_temp.png",
+    "asset": "assets/relics/tailors_scissors_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\golden_scissors_temp.png",
+    "asset": "assets/relics/golden_scissors_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\orange.png",
+    "asset": "assets/relics/orange.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\cleaning_mop_temp.png",
+    "asset": "assets/relics/cleaning_mop_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\wristband_temp.png",
+    "asset": "assets/relics/wristband_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\glass_shield_temp.png",
+    "asset": "assets/relics/glass_shield_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\discount_voucher_temp.png",
+    "asset": "assets/relics/discount_voucher_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\diet_pills_temp.png",
+    "asset": "assets/relics/diet_pills_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\coffee_machine_temp.png",
+    "asset": "assets/relics/coffee_machine_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\cooking_pot_temp.png",
+    "asset": "assets/relics/cooking_pot_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\green_apple.png",
+    "asset": "assets/relics/green_apple.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\apple.png",
+    "asset": "assets/relics/apple.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\gym_ball.png",
+    "asset": "assets/relics/gym_ball.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\wooden_shield.png",
+    "asset": "assets/relics/wooden_shield.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\additional_draw.png",
+    "asset": "assets/relics/additional_draw.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\additional_draw_2.png",
+    "asset": "assets/relics/additional_draw_2.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\additional_draw_3.png",
+    "asset": "assets/relics/additional_draw_3.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\piggy_bank.png",
+    "asset": "assets/relics/piggy_bank.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\mystery_boxes.png",
+    "asset": "assets/relics/mystery_boxes.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\star.png",
+    "asset": "assets/relics/star.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\star_weird.png",
+    "asset": "assets/relics/star_weird.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\creepy_star.png",
+    "asset": "assets/relics/creepy_star.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\chester_chestnut.png",
+    "asset": "assets/relics/chester_chestnut.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\zero_dividend.png",
+    "asset": "assets/relics/zero_dividend.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\reset_button.png",
+    "asset": "assets/relics/reset_button.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\mini_snek.png",
+    "asset": "assets/relics/mini_snek.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\dim.png",
+    "asset": "assets/relics/dim.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\proliferation_plate.png",
+    "asset": "assets/relics/proliferation_plate.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\green_shoes.png",
+    "asset": "assets/relics/green_shoes.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\shuriken.png",
+    "asset": "assets/relics/shuriken.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\burnt_letter.png",
+    "asset": "assets/relics/burnt_letter.png"
+  },
+  {
+    "source": "Art\\Art\\Relics\\flaura_core.png",
+    "asset": "assets/relics/flaura_core.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\square_splash.png",
+    "asset": "assets/cards/square_splash.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\bulwark_splash.png",
+    "asset": "assets/cards/bulwark_splash.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\grand_splash.png",
+    "asset": "assets/cards/grand_splash.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\cardinal_burst.png",
+    "asset": "assets/cards/cardinal_burst.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\brush_relay.png",
+    "asset": "assets/cards/brush_relay.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\paint_scatter.png",
+    "asset": "assets/cards/paint_scatter.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\neutral_bloom.png",
+    "asset": "assets/cards/neutral_bloom.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\double_cross.png",
+    "asset": "assets/cards/double_cross.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\dot.png",
+    "asset": "assets/cards/dot.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\mirror_cross.png",
+    "asset": "assets/cards/mirror_cross.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\hollow_diamond.png",
+    "asset": "assets/cards/hollow_diamond.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\delayed_splash.png",
+    "asset": "assets/cards/delayed_splash.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\second_coat.png",
+    "asset": "assets/cards/second_coat.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\axis_shift.png",
+    "asset": "assets/cards/axis_shift.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\lilac_crossfire.png",
+    "asset": "assets/cards/lilac_crossfire.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\tidal_seed.png",
+    "asset": "assets/cards/tidal_seed.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\x_cross.png",
+    "asset": "assets/cards/x_cross.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\shielding_stroke.png",
+    "asset": "assets/cards/shielding_stroke.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\fortify.png",
+    "asset": "assets/cards/fortify.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\reinforce.png",
+    "asset": "assets/cards/reinforce.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\quick_refill.png",
+    "asset": "assets/cards/quick_refill.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\deep_draw.png",
+    "asset": "assets/cards/deep_draw.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\mirror.png",
+    "asset": "assets/cards/mirror.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\coupon.png",
+    "asset": "assets/cards/coupon.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\stoner_soul.png",
+    "asset": "assets/cards/stoner_soul.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\stone_fragment.png",
+    "asset": "assets/cards/stone_fragment.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\guilt.png",
+    "asset": "assets/cards/guilt.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\loose_change.png",
+    "asset": "assets/cards/loose_change.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\bite.png",
+    "asset": "assets/cards/bite.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\ingestion.png",
+    "asset": "assets/cards/ingestion.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\cats_paw.png",
+    "asset": "assets/cards/cats_paw.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\cats_eye.png",
+    "asset": "assets/cards/cats_eye.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\purification.png",
+    "asset": "assets/cards/purification.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\dead_flaura.png",
+    "asset": "assets/cards/dead_flaura.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\fix_it.png",
+    "asset": "assets/cards/fix_it.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\mass_purification.png",
+    "asset": "assets/cards/mass_purification.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\purifying_paint.png",
+    "asset": "assets/cards/purifying_paint.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\coffee.png",
+    "asset": "assets/cards/coffee.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\frame_splash.png",
+    "asset": "assets/cards/frame_splash.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\kettlebell.png",
+    "asset": "assets/cards/kettlebell.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\call_of_zero.png",
+    "asset": "assets/cards/call_of_zero.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\diamond_coat.png",
+    "asset": "assets/cards/diamond_coat.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\scatter_forever.png",
+    "asset": "assets/cards/scatter_forever.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\consume.png",
+    "asset": "assets/cards/consume.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\savor_temp.png",
+    "asset": "assets/cards/savor_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\takeover_temp.png",
+    "asset": "assets/cards/takeover_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\raindrops_temp.png",
+    "asset": "assets/cards/raindrops_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\confusion_temp.png",
+    "asset": "assets/cards/confusion_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\barrier_crash_temp.png",
+    "asset": "assets/cards/barrier_crash_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\defensive_stance_temp.png",
+    "asset": "assets/cards/defensive_stance_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\barrier_strike_temp.png",
+    "asset": "assets/cards/barrier_strike_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\surge_temp.png",
+    "asset": "assets/cards/surge_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\fan_dance_temp.png",
+    "asset": "assets/cards/fan_dance_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\poise_temp.png",
+    "asset": "assets/cards/poise_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\stockpile_temp.png",
+    "asset": "assets/cards/stockpile_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\ripen_temp.png",
+    "asset": "assets/cards/ripen_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\appetite_temp.png",
+    "asset": "assets/cards/appetite_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\digestion_temp.png",
+    "asset": "assets/cards/digestion_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\scurry_temp.png",
+    "asset": "assets/cards/scurry_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\retreat_temp.png",
+    "asset": "assets/cards/retreat_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\teamwork_temp.png",
+    "asset": "assets/cards/teamwork_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\shopping_time_temp.png",
+    "asset": "assets/cards/shopping_time_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\appraisal_temp.png",
+    "asset": "assets/cards/appraisal_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\piercing_paint_temp.png",
+    "asset": "assets/cards/piercing_paint_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\guardian_temp.png",
+    "asset": "assets/cards/guardian_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\over_here_temp.png",
+    "asset": "assets/cards/over_here_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\personal_training_temp.png",
+    "asset": "assets/cards/personal_training_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\signal_flag.png",
+    "asset": "assets/cards/signal_flag.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\rigged_luck_temp.png",
+    "asset": "assets/cards/rigged_luck_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\keep_spending_temp.png",
+    "asset": "assets/cards/keep_spending_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\portable_shop_temp.png",
+    "asset": "assets/cards/portable_shop_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\fill_temp.png",
+    "asset": "assets/cards/fill_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\rotating_square_temp.png",
+    "asset": "assets/cards/rotating_square_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\fifty_gold_coin_temp.png",
+    "asset": "assets/cards/fifty_gold_coin_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\territory_expansion_temp.png",
+    "asset": "assets/cards/territory_expansion_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\triple_shield_temp.png",
+    "asset": "assets/cards/triple_shield_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\preserve_temp.png",
+    "asset": "assets/cards/preserve_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\solitary_gourmet_temp.png",
+    "asset": "assets/cards/solitary_gourmet_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\treadmill_temp.png",
+    "asset": "assets/cards/treadmill_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\sign_away_temp.png",
+    "asset": "assets/cards/sign_away_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\dispersed_paint_temp.png",
+    "asset": "assets/cards/dispersed_paint_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\defense_transfer_temp.png",
+    "asset": "assets/cards/defense_transfer_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\combo_supply_temp.png",
+    "asset": "assets/cards/combo_supply_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\strip_undercoat_temp.png",
+    "asset": "assets/cards/strip_undercoat_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\hydration_temp.png",
+    "asset": "assets/cards/hydration_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\perfection_temp.png",
+    "asset": "assets/cards/perfection_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\reuse_temp.png",
+    "asset": "assets/cards/reuse_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\vault_temp.png",
+    "asset": "assets/cards/vault_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\gold_bar_temp.png",
+    "asset": "assets/cards/gold_bar_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\mud_splash_temp.png",
+    "asset": "assets/cards/mud_splash_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\roar_temp.png",
+    "asset": "assets/cards/roar_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\improvisation_temp.png",
+    "asset": "assets/cards/improvisation_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\whim_temp.png",
+    "asset": "assets/cards/whim_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\take_wing_temp.png",
+    "asset": "assets/cards/take_wing_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\multiplying_spray_temp.png",
+    "asset": "assets/cards/multiplying_spray_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\ultrasound_temp.png",
+    "asset": "assets/cards/ultrasound_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\twin_strokes_temp.png",
+    "asset": "assets/cards/twin_strokes_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\new_exploration_temp.png",
+    "asset": "assets/cards/new_exploration_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\Artwork\\hachipo_smelt_temp.png",
+    "asset": "assets/cards/hachipo_smelt_temp.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Ryan\\Frames\\ryan_f1.png",
+    "asset": "assets/characters/ryan-f1.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Colby\\Frames\\jerry_f1.png",
+    "asset": "assets/characters/colby-f1.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Potty\\Frames\\hippo_f1.png",
+    "asset": "assets/characters/potty-f1.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Ivan\\Frames\\ivan_f1.png",
+    "asset": "assets/characters/ivan-f1.png"
+  },
+  {
+    "source": "Art\\Art\\Players\\Juliana\\Frames\\kitty_f1.png",
+    "asset": "assets/characters/juliana-f1.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\CodexGuests\\card_smuggler.png",
+    "asset": "assets/guests/card_smuggler.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\CodexGuests\\chain_discounter.png",
+    "asset": "assets/guests/chain_discounter.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\CodexGuests\\flaura_no_arm.png",
+    "asset": "assets/guests/flaura_no_arm.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\CodexGuests\\gem_trader.png",
+    "asset": "assets/guests/gem_trader.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\CodexGuests\\mother_koala.png",
+    "asset": "assets/guests/mother_koala.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\CodexGuests\\pickpocket.png",
+    "asset": "assets/guests/pickpocket.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\CodexGuests\\ted.png",
+    "asset": "assets/guests/ted.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\EffectIcons\\armor.png",
+    "asset": "assets/card-icons/armor.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\EffectIcons\\cross.png",
+    "asset": "assets/card-icons/cross.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\EffectIcons\\diamond.png",
+    "asset": "assets/card-icons/diamond.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\EffectIcons\\exhaust.png",
+    "asset": "assets/card-icons/exhaust.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\EffectIcons\\gold.png",
+    "asset": "assets/card-icons/gold.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\EffectIcons\\random.png",
+    "asset": "assets/card-icons/random.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\EffectIcons\\square.png",
+    "asset": "assets/card-icons/square.png"
+  },
+  {
+    "source": "Art\\Art\\Cards\\EffectIcons\\x.png",
+    "asset": "assets/card-icons/x.png"
+  },
+  {
+    "source": "Art\\Art\\Enemies\\Ted\\Frames\\squirrel_f1.png",
+    "asset": "assets/guests/full-body/ted.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\Tavern\\ArmlessFlaura\\Frames\\armlessflaura_f1.png",
+    "asset": "assets/guests/full-body/flaura_no_arm.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\Tavern\\CardSmuggler\\Frames\\cardseller_f1.png",
+    "asset": "assets/guests/full-body/card_smuggler.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\Tavern\\Pickpocket\\Frames\\pickpocket_f1.png",
+    "asset": "assets/guests/full-body/pickpocket.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\Tavern\\chain_discounter.png",
+    "asset": "assets/guests/full-body/chain_discounter.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\Tavern\\GemTrader\\gemtrader_idle.png",
+    "asset": "assets/guests/full-body/gem_trader.png"
+  },
+  {
+    "source": "Art\\Art\\UI\\Tavern\\MotherKoala\\mother_koala_temp.png",
+    "asset": "assets/guests/full-body/mother_koala.png"
+  },
+  {
+    "asset": "assets/characters/greenzy-codex.png",
+    "sources": [
+      "Art\\Art\\Players\\Greenzy\\Frames\\greenzy_f1.png",
+      "Art\\Art\\Players\\Greenzy\\Frames\\greenzy_f2.png",
+      "Art\\Art\\Players\\Greenzy\\Frames\\greenzy_f3.png",
+      "Art\\Art\\Players\\Greenzy\\Frames\\greenzy_f4.png",
+      "Art\\Art\\Players\\Greenzy\\Frames\\greenzy_f5.png",
+      "Art\\Art\\Players\\Greenzy\\Frames\\greenzy_f6.png",
+      "Art\\Art\\Players\\Greenzy\\Frames\\greenzy_f7.png"
+    ]
+  },
+  {
+    "asset": "assets/characters/ryan-codex.png",
+    "sources": [
+      "Art\\Art\\Players\\Ryan\\Frames\\ryan_f1.png",
+      "Art\\Art\\Players\\Ryan\\Frames\\ryan_f2.png",
+      "Art\\Art\\Players\\Ryan\\Frames\\ryan_f3.png",
+      "Art\\Art\\Players\\Ryan\\Frames\\ryan_f4.png",
+      "Art\\Art\\Players\\Ryan\\PaintFrames\\ryan_paint_f1.png",
+      "Art\\Art\\Players\\Ryan\\PaintFrames\\ryan_paint_f2.png",
+      "Art\\Art\\Players\\Ryan\\PaintFrames\\ryan_paint_f3.png",
+      "Art\\Art\\Players\\Ryan\\PaintFrames\\ryan_paint_f4.png",
+      "Art\\Art\\Players\\Ryan\\PaintFrames\\ryan_paint_f5.png",
+      "Art\\Art\\Players\\Ryan\\PaintFrames\\ryan_paint_f6.png",
+      "Art\\Art\\Players\\Ryan\\PaintFrames\\ryan_paint_f7.png"
+    ]
+  },
+  {
+    "asset": "assets/characters/colby-codex.png",
+    "sources": [
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f1.png",
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f2.png",
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f3.png",
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f4.png",
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f5.png",
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f6.png",
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f7.png",
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f8.png",
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f9.png",
+      "Art\\Art\\Players\\Colby\\Frames\\jerry_f10.png"
+    ]
+  },
+  {
+    "asset": "assets/characters/potty-codex.png",
+    "sources": [
+      "Art\\Art\\Players\\Potty\\Frames\\hippo_f1.png",
+      "Art\\Art\\Players\\Potty\\Frames\\hippo_f2.png",
+      "Art\\Art\\Players\\Potty\\Frames\\hippo_f3.png",
+      "Art\\Art\\Players\\Potty\\Frames\\hippo_f4.png",
+      "Art\\Art\\Players\\Potty\\Frames\\hippo_f5.png",
+      "Art\\Art\\Players\\Potty\\Frames\\hippo_f6.png",
+      "Art\\Art\\Players\\Potty\\Frames\\hippo_f7.png",
+      "Art\\Art\\Players\\Potty\\Frames\\hippo_f8.png"
+    ]
+  },
+  {
+    "asset": "assets/characters/ivan-codex.png",
+    "sources": [
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f1.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f2.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f3.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f4.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f5.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f6.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f7.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f8.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f9.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f10.png",
+      "Art\\Art\\Players\\Ivan\\Frames\\ivan_f11.png"
+    ]
+  },
+  {
+    "asset": "assets/characters/juliana-codex.png",
+    "sources": [
+      "Art\\Art\\Players\\Juliana\\Frames\\kitty_f1.png",
+      "Art\\Art\\Players\\Juliana\\Frames\\kitty_f2.png",
+      "Art\\Art\\Players\\Juliana\\Frames\\kitty_f3.png",
+      "Art\\Art\\Players\\Juliana\\Frames\\kitty_f4.png",
+      "Art\\Art\\Players\\Juliana\\Frames\\kitty_f5.png",
+      "Art\\Art\\Players\\Juliana\\Frames\\kitty_f6.png",
+      "Art\\Art\\Players\\Juliana\\Frames\\kitty_f7.png"
+    ]
+  }
+]
