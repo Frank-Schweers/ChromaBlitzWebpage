@@ -64,3 +64,13 @@
   html { --brush-cursor: url("assets/ui/paintcursor.png") 0 0; cursor: var(--brush-cursor), auto; }
   a[href], button, select { cursor: var(--brush-cursor), pointer; }
 }
+.brush-trail {
+  position: fixed;
+  inset: 0 auto auto 0;
+  height: 3px;
+  border-radius: 2px;
+  background: #ff5050;
+  transform-origin: left center;
+  pointer-events: none;
+  z-index: 9999;
+}
