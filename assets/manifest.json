@@ -1046,5 +1046,9 @@
       "Art\\Art\\Players\\Juliana\\Frames\\kitty_f6.png",
       "Art\\Art\\Players\\Juliana\\Frames\\kitty_f7.png"
     ]
+  },
+  {
+    "asset": "assets/ui/paintcursor.png",
+    "source": "Art\\Art\\UI\\Icons\\paintcursor.png"
   }
 ]

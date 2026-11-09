@@ -59,3 +59,8 @@
 .pattern-example { margin: 1rem 0; padding: 1rem; border: 1px solid #343d46; border-radius: 5px; }
 .pattern-example img { display: block; max-width: 100%; height: auto; }
 .pattern-example figcaption { display: block; margin-top: .75rem; }
+
+@media (any-pointer: fine) {
+  html { --brush-cursor: url("assets/ui/paintcursor.png") 0 0; cursor: var(--brush-cursor), auto; }
+  a[href], button, select { cursor: var(--brush-cursor), pointer; }
+}
