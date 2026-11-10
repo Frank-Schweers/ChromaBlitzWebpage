@@ -22,7 +22,7 @@
     mark.className = 'brush-trail';
     mark.setAttribute('aria-hidden', 'true');
     mark.style.width = length + 'px';
-    mark.style.transform = `translate(${from.x}px, ${from.y - 1.5}px) rotate(${Math.atan2(dy, dx)}rad)`;
+    mark.style.transform = `translate(${from.x}px, ${from.y}px) translateY(-50%) rotate(${Math.atan2(dy, dx)}rad)`;
     document.body.append(mark);
     mark.animate([{ opacity: .4 }, { opacity: .2, offset: .75 }, { opacity: 0 }],
       { duration: 230, fill: 'forwards' }).onfinish = () => mark.remove();

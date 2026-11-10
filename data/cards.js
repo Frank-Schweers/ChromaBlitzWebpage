@@ -1368,7 +1368,7 @@ const gameCards = [
   {
     "id": "LemonChiffon",
     "name": "Shielding Stroke",
-    "cost": 15,
+    "cost": 10,
     "rarity": "Common",
     "owner": "Shared",
     "type": "Paint",
@@ -1376,7 +1376,7 @@ const gameCards = [
     "effect": "Paint: [[cross]](1) + [[armor]] +1",
     "exhaust": "None",
     "upgrade": {
-      "cost": 15,
+      "cost": 10,
       "segments": [
         "Paint: [[cross]](1) + [[armor]] ",
         "+2",

@@ -5,6 +5,11 @@ function heading(label,title,text,count,unit){return `<section class="page-headi
 
 const prototypeArtNotice = '<p class="prototype-art-notice">Many illustrations are still placeholders from the prototype.</p>';
 
+function coinAmount(amount, currency) {
+  const icon = currency === 'gold' ? 'assets/card-icons/gold.png' : 'assets/ui/blue_coin.png';
+  return `<span style="white-space: nowrap">${amount.toLocaleString('en-US')} <img class="keyword-icon" src="${icon}" alt=""></span>`;
+}
+
 function blueCoinUnlockRow(category, item) {
   const price = blueCoinPrices[category][item.id];
   let condition = 'No Blue Coin purchase required.';
@@ -12,7 +17,7 @@ function blueCoinUnlockRow(category, item) {
     const owner = category === 'cards' && characters.find(character => character.name === item.owner);
     const prerequisite = owner && blueCoinPrices.characters[owner.id] !== undefined
       ? `Unlock ${owner.name} first. ` : '';
-    condition = `${prerequisite}Spend ${price} Blue Coins when this offer appears in the shop.`;
+    condition = `${prerequisite}Spend ${coinAmount(price, 'blue')} Blue Coins when this offer appears in the shop.`;
   }
   return `<div><dt>Blue Coin unlock</dt><dd>${condition}</dd></div>`;
 }

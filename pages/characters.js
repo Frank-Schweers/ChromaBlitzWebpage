@@ -42,7 +42,7 @@ function characterPage(character) {
   <img src="assets/characters/${character.id}-codex.png" alt="${character.name}, the ${character.species.toLowerCase()} character">
 </picture></div><figcaption>${character.name} the ${character.species.toLowerCase()}<small>CHARACTER ART</small></figcaption></figure><div>${eyebrow('MEET THE CHARACTERS / '+character.species)}<h1>${character.name}</h1><p>${character.description}</p><dl class="facts">
 ${blueCoinUnlockRow('characters', character)}
-<div><dt>Starting gold</dt><dd>${character.gold.toLocaleString('en-US')}</dd></div>
+<div><dt>Starting gold</dt><dd>${coinAmount(character.gold, 'gold')}</dd></div>
 <div><dt>Difficulty</dt><dd>${character.difficulty}</dd></div>
 <div><dt>Starting deck</dt><dd><ul class="deck-list">${character.deck.map(deckCardLink).join('')}</ul></dd></div>
 <div><dt>Starting relic</dt><dd><a class="starting-relic" href="#relics/${character.relicId}"><img src="assets/relics/${character.relicId}.png" width="36" height="36" alt="">${character.relic} →</a></dd></div></dl>
