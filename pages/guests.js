@@ -6,7 +6,7 @@ function guestsPage(guest) {
       <div>${eyebrow('TAVERN GUEST')}<h1>${name}</h1><h2>At the tavern</h2><p>${description}</p>
       <h2>${heading}</h2><p class="codex-copy">${text}</p></div></section>`;
   }
-  return heading('THE COLLECTION', 'Tavern Guests', 'Select a guest to discover their story and what happens when you meet them at the tavern.', tavernGuests.length, 'GUESTS') +
+  return heading('THE COLLECTION', 'Tavern Guests', tavernGuests.length, 'GUESTS') +
     prototypeArtNotice +
     `<div class="guest-grid">${tavernGuests.map(({id, name, description}) =>
     `<a href="#guests/${id}" class="relic"><div class="relic-art"><img src="assets/guests/${id}.png" alt="" loading="lazy"></div>

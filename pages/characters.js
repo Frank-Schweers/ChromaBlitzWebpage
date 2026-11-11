@@ -14,7 +14,7 @@ function characterTile(character) {
 function roster() {
   const count = String(characters.length).padStart(2, '0');
   return heading('MEET THE CHARACTERS', 'Each with their own color, one adventure.',
-    'Meet your next colorful companion.', count, 'COLORFUL FRIENDS') +
+    count, 'COLORFUL FRIENDS') +
     `<div class="character-grid">
       ${characters.map(characterTile).join('')}${Array.from({length: 6}, soon).join('')}
     </div>

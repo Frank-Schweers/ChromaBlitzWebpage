@@ -1,7 +1,7 @@
 const main=document.querySelector('main');
 const eyebrow=t=>`<div class="eyebrow">${t}</div>`;
 const soon=()=>`<div class="soon"><span class="plus" aria-hidden="true">+</span><h3>Coming soon.</h3><small>A NEW COLOR TO DISCOVER</small></div>`;
-function heading(label,title,text,count,unit){return `<section class="page-heading"><div>${eyebrow(label)}<h1>${title}</h1><p>${text}</p></div><div class="count"><strong>${count}</strong>${unit}<p>Discover the world of ChromaBlitz</p></div></section>`}
+function heading(label,title,count,unit){return `<section class="page-heading"><div>${eyebrow(label)}<h1>${title}</h1></div><div class="count"><strong>${count}</strong>${unit}</div></section>`}
 
 const prototypeArtNotice = '<p class="prototype-art-notice">Many illustrations are still placeholders from the prototype.</p>';
 

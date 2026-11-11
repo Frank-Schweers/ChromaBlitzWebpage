@@ -87,3 +87,7 @@
   z-index: 9999;
 }
 h1, h2, h3 { font-weight: 700; }
+.catalog-filters select:disabled { opacity: .45; cursor: not-allowed; }
+.guides-nav { text-align: center; line-height: 1.15; }
+@media (max-width: 1250px) { .nav-links { gap: 14px; } .motto { display: none; } }
+@media (max-width: 650px) { .nav-links { flex-wrap: wrap; gap: 8px 16px; padding-bottom: 8px; } .footer-links { flex-wrap: wrap; } }

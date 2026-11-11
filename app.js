@@ -5,6 +5,7 @@ const routes = {
   cards: { title: 'Cards', entries: gameCards, page: cardPage },
   relics: { title: 'Relics', entries: relics, page: relicPage },
   guests: { title: 'Guests', entries: tavernGuests, page: guestsPage },
+  guides: { title: 'World Guides', entries: worldGuides, page: guidesPage },
   credits: { title: 'Credits', page: creditsPage }
 };
 

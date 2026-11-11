@@ -2,12 +2,12 @@ const relics = gameRelics.map(relic => ({
   ...relic,
   owner: characters.find(character => character.relicId === relic.id)
 }));
-const catalogFilters = { cards: { rarity: '', owner: '', type: '' }, relics: { rarity: '', price: '', source: '' }, enemies: { world: '', type: '' } };
+const catalogFilters = { cards: { rarity: '', owner: 'Shared', character: '', type: '' }, relics: { rarity: '', price: '', source: '' }, enemies: { world: '', type: '' } };
 
-function filterSelect(page, key, label, choices) {
+function filterSelect(page, key, label, choices, disabled = false) {
   const options = choices.map(([value, text]) =>
     `<option value="${value}" ${catalogFilters[page][key] === value ? 'selected' : ''}>${text}</option>`);
-  return `<label>${label}<select data-filter="${key}">${options.join('')}</select></label>`;
+  return `<label>${label}<select data-filter="${key}" ${disabled ? 'disabled' : ''}>${options.join('')}</select></label>`;
 }
 
 function matchesFilters(item, filters) {
@@ -16,7 +16,7 @@ function matchesFilters(item, filters) {
   if (filters.type && item.type !== filters.type) return false;
   const exclusiveCard = filters.rarity === 'Exclusive' && typeof item.owner === 'string' && item.owner !== 'Shared';
   if (filters.rarity && item.rarity !== filters.rarity && !exclusiveCard) return false;
-  if (filters.owner === 'Exclusive') return item.owner !== 'Shared';
+  if (filters.owner === 'Exclusive') return item.owner !== 'Shared' && (!filters.character || item.owner === filters.character);
   return !filters.owner || item.owner === filters.owner;
 }
 
@@ -43,11 +43,11 @@ function catalogPage(page) {
   const rarities = ['Exclusive', 'Common', 'Advanced', 'Rare', 'Legendary', 'Mythic', 'Special'];
   const rarity = filterSelect(page, 'rarity', 'Rarity', [['', 'All'], ...rarities.map(r => [r,r])]);
   const types = [['', 'All types'], ['Paint', 'Paint'], ['Option', 'Option'], ['Evil', 'Evil']];
-  const owners = [['', 'All cards'], ['Shared', 'Shared cards'], ['Exclusive', 'Character-exclusive cards'],
-    ...characters.map(c => [c.name, c.name])];
-  return heading('THE COLLECTION', title, isCard ? 'Browse cards by rarity, character, and type.' : 'Select a relic to compare its base and upgraded effects.', items.length, title.toUpperCase()) +
+  const owners = [['Shared', 'Shared'], ['Exclusive', 'Exclusive']];
+  const characterChoices = [['', 'All'], ...characters.map(character => [character.name, character.name])];
+  return heading('THE COLLECTION', title, items.length, title.toUpperCase()) +
     prototypeArtNotice +
-    `<div class="catalog-filters" data-catalog="${page}">${rarity}${isCard ? filterSelect(page,'owner','Card pool',owners) + filterSelect(page,'type','Type',types) : relicFilters()}</div>
+    `<div class="catalog-filters" data-catalog="${page}">${rarity}${isCard ? filterSelect(page,'owner','Card pool',owners) + filterSelect(page, 'character', 'Character', characterChoices, catalogFilters.cards.owner !== 'Exclusive') + filterSelect(page,'type','Type',types) : relicFilters()}</div>
      <section id="catalog-results">${catalogResults(page)}</section>`;
 }
 
@@ -66,5 +66,13 @@ main.addEventListener('change', event => {
   if (!control) return;
   const page = control.closest('[data-catalog]').dataset.catalog;
   catalogFilters[page][control.dataset.filter] = control.value;
+  if (page === 'cards' && control.dataset.filter === 'owner') {
+    const character = main.querySelector('select[data-filter="character"]');
+    character.disabled = control.value !== 'Exclusive';
+    if (character.disabled) {
+      catalogFilters.cards.character = '';
+      character.value = '';
+    }
+  }
   document.getElementById('catalog-results').innerHTML = catalogResults(page);
 });

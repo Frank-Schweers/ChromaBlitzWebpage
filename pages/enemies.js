@@ -48,7 +48,7 @@ function enemyPage(enemy) {
       <div><dt>Floor</dt><dd>${info.floors}</dd></div></dl><h2>Passive</h2><p>${info.passive}</p><h2>Patterns</h2>
       ${enemyPatterns(enemy.id, info.patterns)}<h2>Codex entry</h2><p class="codex-copy">${info.story}</p></div></section>`;
   }
-  return heading('ENEMY CODEX', 'Enemies', 'Choose an enemy to open its codex entry.', enemies.length, 'ENEMIES') +
+  return heading('ENEMY CODEX', 'Enemies', enemies.length, 'ENEMIES') +
     prototypeArtNotice +
     `<div class="catalog-filters" data-catalog="enemies">
       ${filterSelect('enemies', 'world', 'World', [['', 'All worlds'], ['1', 'World 1'], ['2', 'World 2']])}
