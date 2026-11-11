@@ -146,7 +146,7 @@ const gameCards = [
   {
     "id": "DarkIvory",
     "name": "Bulwark Splash",
-    "cost": 35,
+    "cost": 30,
     "rarity": "Advanced",
     "owner": "Shared",
     "type": "Paint",
@@ -154,7 +154,7 @@ const gameCards = [
     "effect": "Paint: [[square]](3) + [[armor]] +1",
     "exhaust": "None",
     "upgrade": {
-      "cost": 30,
+      "cost": 25,
       "segments": [
         "Paint: [[square]](3) + [[armor]] ",
         "+2",
@@ -559,7 +559,7 @@ const gameCards = [
   {
     "id": "Fortify",
     "name": "Fortify",
-    "cost": 10,
+    "cost": 5,
     "rarity": "Common",
     "owner": "Shared",
     "type": "Option",
@@ -567,10 +567,10 @@ const gameCards = [
     "effect": "Own Cells in [[cross]](1): [[armor]] +1",
     "exhaust": "None",
     "upgrade": {
-      "cost": 10,
+      "cost": 5,
       "segments": [
         "Own Cells in [[cross]](1): [[armor]] ",
-        "+2",
+        "+3",
         ""
       ]
     }
@@ -839,7 +839,7 @@ const gameCards = [
   {
     "id": "MassPurification",
     "name": "Mass Purification",
-    "cost": 60,
+    "cost": 55,
     "rarity": "Legendary",
     "owner": "Shared",
     "type": "Option",
@@ -847,7 +847,7 @@ const gameCards = [
     "effect": "Remove all beneficial effects except Fixed from every Cell",
     "exhaust": "None",
     "upgrade": {
-      "cost": 50,
+      "cost": 45,
       "segments": [
         ""
       ]
@@ -1773,19 +1773,19 @@ const gameCards = [
   {
     "id": "Ultrasound",
     "name": "Ultrasound",
-    "cost": 50,
+    "cost": 35,
     "rarity": "Legendary",
     "owner": "Shared",
     "type": "Option",
     "art": "assets/cards/ultrasound_temp.png",
-    "effect": "Return a Card played last turn from your discard pile to your Hand\nIts Cost becomes 200% this battle",
+    "effect": "Return up to 1 random Cards played last turn from your discard pile to your Hand\nTheir Cost becomes 125% this battle",
     "exhaust": "Always",
     "upgrade": {
-      "cost": 40,
+      "cost": 30,
       "segments": [
-        "Return a Card played last turn from your discard pile to your Hand\nIts Cost becomes ",
-        "150",
-        "% this battle"
+        "Return up to ",
+        "3",
+        " random Cards played last turn from your discard pile to your Hand\nTheir Cost becomes 125% this battle"
       ]
     }
   },

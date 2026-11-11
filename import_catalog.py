@@ -37,7 +37,9 @@ for key,block in entries('Relics/RelicCatalogData.cs','RelicCatalog').items():
                      'StageStarting': 'Stage start'}
     sources = [source_labels[key] for key in re.findall(r'RelicSource\.(\w+)', block)]
     assert sources, name
-    relics.append(dict(sources=sources,id=path.split('/')[-1],name=name,rarity="Mythic" if rarity=="StageStarting" else rarity,effect=effect,upgrade=upgrade,art=art))
+    price = re.search(r'RelicSource\.\w+(?:\s*\|\s*RelicSource\.\w+)*\s*,\s*(\d+)\s*\)', block)
+    shop_price = int(price[1]) if 'Shop' in sources else None
+    relics.append(dict(shopPrice=shop_price,sources=sources,id=path.split('/')[-1],name=name,rarity="Mythic" if rarity=="StageStarting" else rarity,effect=effect,upgrade=upgrade,art=art))
 artmap=dict(re.findall(r'\[CardType\.(\w+)\]\s*= A\("[^"]+", "([^"]+)"',read('Cards/CardPresentationCatalog.cs')))
 cards=[]
 for key,block in entries('Cards/CardCatalogData.cs','CardType').items():

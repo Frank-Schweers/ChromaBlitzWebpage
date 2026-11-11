@@ -13,7 +13,8 @@ function renderEffectText(text) {
     const name = keywordNames[key];
     const path = key === 'flag' ? 'assets/cards/signal_flag.png' : `assets/card-icons/${key}.png`;
     const symbol = key === 'confusion' ? '↻' : `<img class="keyword-icon" src="${path}" alt="">`;
-    return `<span class="card-keyword">${symbol} ${name}</span>`;
+    const help = cardKeywordHelp[key].replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+    return `<span class="card-keyword" tabindex="0" title="${help}" aria-label="${help}">${symbol} ${name}</span>`;
   });
 }
 
