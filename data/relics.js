@@ -24,6 +24,18 @@ const gameRelics = [
     "shopPrice": null
   },
   {
+    "id": "crystal_blue",
+    "name": "Blue Crystal",
+    "effect": "Option cards are 20% more likely to appear in card rewards and shops.",
+    "art": "assets/relics/gemblue.png",
+    "rarity": "Crystal",
+    "sources": [
+      "Event"
+    ],
+    "shopPrice": null,
+    "upgrade": null
+  },
+  {
     "sources": [
       "Treasure"
     ],
@@ -262,6 +274,18 @@ const gameRelics = [
     "upgrade": "On your next shop visit, sell this relic and gain 110 Gold.",
     "art": "assets/relics/green_apple.png",
     "shopPrice": null
+  },
+  {
+    "id": "crystal_green",
+    "name": "Green Crystal",
+    "effect": "You may remove up to 2 cards in each shop, but card removal costs 50% more.",
+    "art": "assets/relics/gemgreen.png",
+    "rarity": "Crystal",
+    "sources": [
+      "Event"
+    ],
+    "shopPrice": null,
+    "upgrade": null
   },
   {
     "sources": [
@@ -656,6 +680,30 @@ const gameRelics = [
     "shopPrice": null
   },
   {
+    "id": "crystal_purple",
+    "name": "Purple Crystal",
+    "effect": "Gain 2 Gold at battle start, plus 1 Gold for each other crystal you own.",
+    "art": "assets/relics/gempurple.png",
+    "rarity": "Crystal",
+    "sources": [
+      "Event"
+    ],
+    "shopPrice": null,
+    "upgrade": null
+  },
+  {
+    "id": "crystal_red",
+    "name": "Red Crystal",
+    "effect": "Paint cards are 20% more likely to appear in card rewards and shops.",
+    "art": "assets/relics/gemred.png",
+    "rarity": "Crystal",
+    "sources": [
+      "Event"
+    ],
+    "shopPrice": null,
+    "upgrade": null
+  },
+  {
     "sources": [
       "Elite battle",
       "Treasure"
@@ -899,6 +947,18 @@ const gameRelics = [
     "upgrade": "Cards upgraded during battle cost 10 Gold less for that battle.",
     "art": "assets/relics/wristband_temp.png",
     "shopPrice": 50
+  },
+  {
+    "id": "crystal_yellow",
+    "name": "Yellow Crystal",
+    "effect": "Common cards are 40% more likely to appear.",
+    "art": "assets/relics/gemyellow.png",
+    "rarity": "Crystal",
+    "sources": [
+      "Event"
+    ],
+    "shopPrice": null,
+    "upgrade": null
   },
   {
     "sources": [

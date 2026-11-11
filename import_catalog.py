@@ -40,6 +40,17 @@ for key,block in entries('Relics/RelicCatalogData.cs','RelicCatalog').items():
     price = re.search(r'RelicSource\.\w+(?:\s*\|\s*RelicSource\.\w+)*\s*,\s*(\d+)\s*\)', block)
     shop_price = int(price[1]) if 'Shop' in sources else None
     relics.append(dict(shopPrice=shop_price,sources=sources,id=path.split('/')[-1],name=name,rarity="Mythic" if rarity=="StageStarting" else rarity,effect=effect,upgrade=upgrade,art=art))
+crystal_source = read('Relics/CrystalCatalog.cs')
+crystal_ids = dict(re.findall(r'const string (\w+) = "([^"]+)"', crystal_source))
+for key, name, effect, resource in re.findall(
+        r'(\w+) => Create\(\w+, "([^"]+)",\s*"([^"]+)",\s*"([^"]+)"\)', crystal_source):
+    asset = Path('assets/relics') / (resource + '.png')
+    source = base.parent / 'Resources/Art/Crystals' / (resource + '.png')
+    shutil.copyfile(source, asset)
+    relics.append(dict(id=crystal_ids[key], name=name, effect=effect,
+                      art=asset.as_posix(), rarity='Crystal', sources=['Event'],
+                      shopPrice=None, upgrade=None))
+
 artmap=dict(re.findall(r'\[CardType\.(\w+)\]\s*= A\("[^"]+", "([^"]+)"',read('Cards/CardPresentationCatalog.cs')))
 cards=[]
 for key,block in entries('Cards/CardCatalogData.cs','CardType').items():

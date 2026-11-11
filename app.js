@@ -4,6 +4,7 @@ const routes = {
   enemies: { title: 'Enemies', entries: enemies, page: enemyPage },
   cards: { title: 'Cards', entries: gameCards, page: cardPage },
   relics: { title: 'Relics', entries: relics, page: relicPage },
+  consumables: { title: 'Consumables', entries: consumables, page: consumablesPage },
   guests: { title: 'Guests', entries: tavernGuests, page: guestsPage },
   guides: { title: 'World Guides', entries: worldGuides, page: guidesPage },
   credits: { title: 'Credits', page: creditsPage }

@@ -180,11 +180,11 @@
     "asset": "assets/relics/ryan_shield.png"
   },
   {
-    "source": "Art\\Art\\Relics\\cheesy.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\cheesy.png",
     "asset": "assets/relics/cheesy.png"
   },
   {
-    "source": "Art\\Art\\Relics\\dumbbell.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\dumbbell.png",
     "asset": "assets/relics/dumbbell.png"
   },
   {
@@ -320,27 +320,27 @@
     "asset": "assets/relics/elegant_fork_temp.png"
   },
   {
-    "source": "Art\\Art\\Relics\\discount_sticker_temp.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\discount_sticker.png",
     "asset": "assets/relics/discount_sticker_temp.png"
   },
   {
-    "source": "Art\\Art\\Relics\\energy_drink_temp.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\energy_drink.png",
     "asset": "assets/relics/energy_drink_temp.png"
   },
   {
-    "source": "Art\\Art\\Relics\\gift_card_temp.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\gift_card.png",
     "asset": "assets/relics/gift_card_temp.png"
   },
   {
-    "source": "Art\\Art\\Relics\\tailors_scissors_temp.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\tailors_scissors.png",
     "asset": "assets/relics/tailors_scissors_temp.png"
   },
   {
-    "source": "Art\\Art\\Relics\\golden_scissors_temp.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\golden_scissors.png",
     "asset": "assets/relics/golden_scissors_temp.png"
   },
   {
-    "source": "Art\\Art\\Relics\\orange.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\orange.png",
     "asset": "assets/relics/orange.png"
   },
   {
@@ -368,19 +368,19 @@
     "asset": "assets/relics/coffee_machine_temp.png"
   },
   {
-    "source": "Art\\Art\\Relics\\cooking_pot_temp.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\cooking_pot.png",
     "asset": "assets/relics/cooking_pot_temp.png"
   },
   {
-    "source": "Art\\Art\\Relics\\green_apple.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\green_apple.png",
     "asset": "assets/relics/green_apple.png"
   },
   {
-    "source": "Art\\Art\\Relics\\apple.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\apple.png",
     "asset": "assets/relics/apple.png"
   },
   {
-    "source": "Art\\Art\\Relics\\gym_ball.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\gym_ball.png",
     "asset": "assets/relics/gym_ball.png"
   },
   {
@@ -388,7 +388,7 @@
     "asset": "assets/relics/wooden_shield.png"
   },
   {
-    "source": "Art\\Art\\Relics\\additional_draw.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\additional_draw.png",
     "asset": "assets/relics/additional_draw.png"
   },
   {
@@ -400,7 +400,7 @@
     "asset": "assets/relics/additional_draw_3.png"
   },
   {
-    "source": "Art\\Art\\Relics\\piggy_bank.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\piggy_bank.png",
     "asset": "assets/relics/piggy_bank.png"
   },
   {
@@ -408,7 +408,7 @@
     "asset": "assets/relics/mystery_boxes.png"
   },
   {
-    "source": "Art\\Art\\Relics\\star.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\star.png",
     "asset": "assets/relics/star.png"
   },
   {
@@ -428,11 +428,11 @@
     "asset": "assets/relics/zero_dividend.png"
   },
   {
-    "source": "Art\\Art\\Relics\\reset_button.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\reset_button.png",
     "asset": "assets/relics/reset_button.png"
   },
   {
-    "source": "Art\\Art\\Relics\\mini_snek.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\mini_snek.png",
     "asset": "assets/relics/mini_snek.png"
   },
   {
@@ -448,11 +448,11 @@
     "asset": "assets/relics/green_shoes.png"
   },
   {
-    "source": "Art\\Art\\Relics\\shuriken.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\shuriken.png",
     "asset": "assets/relics/shuriken.png"
   },
   {
-    "source": "Art\\Art\\Relics\\burnt_letter.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Relics\\burnt_letter.png",
     "asset": "assets/relics/burnt_letter.png"
   },
   {
@@ -460,7 +460,7 @@
     "asset": "assets/relics/flaura_core.png"
   },
   {
-    "source": "Art\\Art\\Cards\\Artwork\\square_splash.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Cards\\Artwork\\square_splash.png",
     "asset": "assets/cards/square_splash.png"
   },
   {
@@ -500,7 +500,7 @@
     "asset": "assets/cards/mirror_cross.png"
   },
   {
-    "source": "Art\\Art\\Cards\\Artwork\\hollow_diamond.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Cards\\Artwork\\hollow_diamond.png",
     "asset": "assets/cards/hollow_diamond.png"
   },
   {
@@ -552,7 +552,7 @@
     "asset": "assets/cards/mirror.png"
   },
   {
-    "source": "Art\\Art\\Cards\\Artwork\\coupon.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Cards\\Artwork\\coupon.png",
     "asset": "assets/cards/coupon.png"
   },
   {
@@ -572,7 +572,7 @@
     "asset": "assets/cards/loose_change.png"
   },
   {
-    "source": "Art\\Art\\Cards\\Artwork\\bite.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Cards\\Artwork\\bite.png",
     "asset": "assets/cards/bite.png"
   },
   {
@@ -580,7 +580,7 @@
     "asset": "assets/cards/ingestion.png"
   },
   {
-    "source": "Art\\Art\\Cards\\Artwork\\cats_paw.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Cards\\Artwork\\cats_paw.png",
     "asset": "assets/cards/cats_paw.png"
   },
   {
@@ -728,7 +728,7 @@
     "asset": "assets/cards/personal_training_temp.png"
   },
   {
-    "source": "Art\\Art\\Cards\\Artwork\\signal_flag.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Cards\\Artwork\\signal_flag.png",
     "asset": "assets/cards/signal_flag.png"
   },
   {
@@ -1050,5 +1050,65 @@
   {
     "asset": "assets/ui/paintcursor.png",
     "source": "Art\\Art\\UI\\Icons\\paintcursor.png"
+  },
+  {
+    "asset": "assets/cards/personal_training.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Cards\\Artwork\\personal_training.png"
+  },
+  {
+    "asset": "assets/cards/surge.png",
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Cards\\Artwork\\surge.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\bean_soup.png",
+    "asset": "assets/consumables/bean_soup.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\pasta.png",
+    "asset": "assets/consumables/pasta.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\pizza.png",
+    "asset": "assets/consumables/pizza.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\salad.png",
+    "asset": "assets/consumables/salad.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\seaweed_tea.png",
+    "asset": "assets/consumables/seaweed_tea.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\meatball.png",
+    "asset": "assets/consumables/meatball.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\melon_soda.png",
+    "asset": "assets/consumables/melon_soda.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\grilled_mushroom.png",
+    "asset": "assets/consumables/grilled_mushroom.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\metal_briefcase.png",
+    "asset": "assets/consumables/metal_briefcase.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\lemon_pie_temp.png",
+    "asset": "assets/consumables/lemon_pie_temp.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\sweet_potato_soup_temp.png",
+    "asset": "assets/consumables/sweet_potato_soup_temp.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\chocolate_bread_temp.png",
+    "asset": "assets/consumables/chocolate_bread_temp.png"
+  },
+  {
+    "source": "C:\\UnityProject\\ChromaBlitz\\Assets\\Resources\\Art\\Consumables\\golden_egg_temp.png",
+    "asset": "assets/consumables/golden_egg_temp.png"
   }
 ]

@@ -699,7 +699,7 @@ const gameCards = [
     "rarity": "Rare",
     "owner": "Ivan",
     "type": "Option",
-    "art": "assets/cards/personal_training_temp.png",
+    "art": "assets/cards/personal_training.png",
     "effect": "Permanently upgrade 1 random Card in your Deck\nIf none can be upgraded, gain 65[[gold]]",
     "exhaust": "Always",
     "upgrade": {
@@ -1601,7 +1601,7 @@ const gameCards = [
     "rarity": "Advanced",
     "owner": "Ivan",
     "type": "Option",
-    "art": "assets/cards/surge_temp.png",
+    "art": "assets/cards/surge.png",
     "effect": "Draw 1 Card\nIf it is upgraded, draw 1 more",
     "exhaust": "None",
     "upgrade": {

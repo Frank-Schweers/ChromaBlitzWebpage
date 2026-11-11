@@ -91,3 +91,38 @@ h1, h2, h3 { font-weight: 700; }
 .guides-nav { text-align: center; line-height: 1.15; }
 @media (max-width: 1250px) { .nav-links { gap: 14px; } .motto { display: none; } }
 @media (max-width: 650px) { .nav-links { flex-wrap: wrap; gap: 8px 16px; padding-bottom: 8px; } .footer-links { flex-wrap: wrap; } }
+
+.nav-links { flex-wrap: wrap; }
+@media (min-width: 651px) { .nav-links a { min-height: 48px; } }
+
+/* Keep catalogue artwork independent of the source image dimensions. */
+.relic-grid .relic-art,
+.guest-grid .relic-art {
+  position: relative;
+  height: auto;
+  min-height: 0;
+  aspect-ratio: 1 / .95;
+  overflow: hidden;
+}
+.relic-grid .relic-art > img,
+.guest-grid .relic-art > img {
+  position: absolute;
+  inset: 8%;
+  width: 84%;
+  height: 84%;
+  object-fit: contain;
+}
+
+
+[data-relic-rarity="Crystal"] { --relic-rarity: #66d9ef; }
+.relic-browser { display: grid; grid-template-columns: 210px minmax(0, 1fr); gap: 24px; align-items: start; }
+.catalog-filters.relic-sidebar { display: flex; flex-direction: column; align-items: stretch; }
+.relic-sidebar select, .price-range input { width: 100%; min-width: 0; }
+.price-range { margin: 0; padding: 0; border: 0; }
+.price-range label { display: block; margin: 12px 0; }
+.price-range input { display: block; padding: .6rem; font: inherit; color: var(--text); background: var(--panel); border: 1px solid var(--line); border-radius: 4px; }
+.price-range small { display: block; }
+.price-error { color: #ff9191; font-size: .85rem; }
+.relic-browser .relic-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 1000px) { .relic-browser .relic-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 650px) { .relic-browser { grid-template-columns: 1fr; } .relic-browser .relic-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
